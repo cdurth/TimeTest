@@ -10,3 +10,9 @@
 6. each server will also echo a request to itself and the JSON payload every 5 seconds to the console.
 
 SSL keys are for demonstration purposes only, it is recommended you generate your own.
+
+### Other Node/JS Projects
+* https://github.com/cdurth/R3VL
+* https://github.com/cdurth/SnapBoy
+* https://github.com/cdurth/telegrambot-StockStat
+* https://github.com/cdurth/JobService
